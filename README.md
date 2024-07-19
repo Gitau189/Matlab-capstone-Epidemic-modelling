@@ -6,8 +6,8 @@ It should be noted that this is a very simple model and does not take into accou
 
 It is aimed to give  a solid foundation on matlab and its applications.
 
-## acknowledgement 🙏
-I want to acknowledge  Grace Mgandila and Halima For their outstanding collaboration working on the model.
+## Acknowledgement 🙏
+I want to acknowledge  Grace Mgandila and Halima Mahdi For their outstanding collaboration working on the model.
 
 **Friday June 19th,2024**
 
